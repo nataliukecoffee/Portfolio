@@ -1,0 +1,9 @@
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Strukturos klaseje Nr. 4\PirkinysStruct\bin\Debug\netstandard2.0\PirkinysStruct.deps.json
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Strukturos klaseje Nr. 4\PirkinysStruct\bin\Debug\netstandard2.0\PirkinysStruct.dll
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Strukturos klaseje Nr. 4\PirkinysStruct\bin\Debug\netstandard2.0\PirkinysStruct.pdb
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Strukturos klaseje Nr. 4\PirkinysStruct\obj\Debug\netstandard2.0\PirkinysStruct.csprojAssemblyReference.cache
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Strukturos klaseje Nr. 4\PirkinysStruct\obj\Debug\netstandard2.0\PirkinysStruct.csproj.CoreCompileInputs.cache
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Strukturos klaseje Nr. 4\PirkinysStruct\obj\Debug\netstandard2.0\PirkinysStruct.AssemblyInfoInputs.cache
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Strukturos klaseje Nr. 4\PirkinysStruct\obj\Debug\netstandard2.0\PirkinysStruct.AssemblyInfo.cs
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Strukturos klaseje Nr. 4\PirkinysStruct\obj\Debug\netstandard2.0\PirkinysStruct.dll
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Strukturos klaseje Nr. 4\PirkinysStruct\obj\Debug\netstandard2.0\PirkinysStruct.pdb

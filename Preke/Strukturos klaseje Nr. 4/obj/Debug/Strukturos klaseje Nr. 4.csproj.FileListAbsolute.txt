@@ -1,0 +1,10 @@
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Strukturos klaseje Nr. 4\Strukturos klaseje Nr. 4\obj\Debug\Strukturos klaseje Nr. 4.csprojAssemblyReference.cache
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Strukturos klaseje Nr. 4\Strukturos klaseje Nr. 4\obj\Debug\Strukturos klaseje Nr. 4.csproj.CoreCompileInputs.cache
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Strukturos klaseje Nr. 4\Strukturos klaseje Nr. 4\bin\Debug\Strukturos klaseje Nr. 4.exe.config
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Strukturos klaseje Nr. 4\Strukturos klaseje Nr. 4\bin\Debug\Strukturos klaseje Nr. 4.exe
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Strukturos klaseje Nr. 4\Strukturos klaseje Nr. 4\bin\Debug\Strukturos klaseje Nr. 4.pdb
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Strukturos klaseje Nr. 4\Strukturos klaseje Nr. 4\bin\Debug\PirkinysStruct.dll
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Strukturos klaseje Nr. 4\Strukturos klaseje Nr. 4\bin\Debug\PirkinysStruct.pdb
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Strukturos klaseje Nr. 4\Strukturos klaseje Nr. 4\obj\Debug\Strukturos klaseje Nr. 4.csproj.CopyComplete
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Strukturos klaseje Nr. 4\Strukturos klaseje Nr. 4\obj\Debug\Strukturos klaseje Nr. 4.exe
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Strukturos klaseje Nr. 4\Strukturos klaseje Nr. 4\obj\Debug\Strukturos klaseje Nr. 4.pdb
