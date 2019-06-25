@@ -1,0 +1,27 @@
+C:\C sharp\C sharp 2\ConsoleApp1\MokinysBL\bin\Debug\netstandard2.0\MokinysBL.deps.json
+C:\C sharp\C sharp 2\ConsoleApp1\MokinysBL\bin\Debug\netstandard2.0\MokinysBL.dll
+C:\C sharp\C sharp 2\ConsoleApp1\MokinysBL\bin\Debug\netstandard2.0\MokinysBL.pdb
+C:\C sharp\C sharp 2\ConsoleApp1\MokinysBL\obj\Debug\netstandard2.0\MokinysBL.csprojAssemblyReference.cache
+C:\C sharp\C sharp 2\ConsoleApp1\MokinysBL\obj\Debug\netstandard2.0\MokinysBL.csproj.CoreCompileInputs.cache
+C:\C sharp\C sharp 2\ConsoleApp1\MokinysBL\obj\Debug\netstandard2.0\MokinysBL.AssemblyInfoInputs.cache
+C:\C sharp\C sharp 2\ConsoleApp1\MokinysBL\obj\Debug\netstandard2.0\MokinysBL.AssemblyInfo.cs
+C:\C sharp\C sharp 2\ConsoleApp1\MokinysBL\obj\Debug\netstandard2.0\MokinysBL.dll
+C:\C sharp\C sharp 2\ConsoleApp1\MokinysBL\obj\Debug\netstandard2.0\MokinysBL.pdb
+C:\C sharp\C sharp 2\MokinioDienorastis\MokinysBL\bin\Debug\netstandard2.0\MokinysBL.deps.json
+C:\C sharp\C sharp 2\MokinioDienorastis\MokinysBL\bin\Debug\netstandard2.0\MokinysBL.dll
+C:\C sharp\C sharp 2\MokinioDienorastis\MokinysBL\bin\Debug\netstandard2.0\MokinysBL.pdb
+C:\C sharp\C sharp 2\MokinioDienorastis\MokinysBL\obj\Debug\netstandard2.0\MokinysBL.csprojAssemblyReference.cache
+C:\C sharp\C sharp 2\MokinioDienorastis\MokinysBL\obj\Debug\netstandard2.0\MokinysBL.csproj.CoreCompileInputs.cache
+C:\C sharp\C sharp 2\MokinioDienorastis\MokinysBL\obj\Debug\netstandard2.0\MokinysBL.AssemblyInfoInputs.cache
+C:\C sharp\C sharp 2\MokinioDienorastis\MokinysBL\obj\Debug\netstandard2.0\MokinysBL.AssemblyInfo.cs
+C:\C sharp\C sharp 2\MokinioDienorastis\MokinysBL\obj\Debug\netstandard2.0\MokinysBL.dll
+C:\C sharp\C sharp 2\MokinioDienorastis\MokinysBL\obj\Debug\netstandard2.0\MokinysBL.pdb
+C:\C sharp\MyPortfolio\Portfolio\MokinioDienorastis\MokinioDienorastis\MokinysBL\bin\Debug\netstandard2.0\MokinysBL.deps.json
+C:\C sharp\MyPortfolio\Portfolio\MokinioDienorastis\MokinioDienorastis\MokinysBL\bin\Debug\netstandard2.0\MokinysBL.dll
+C:\C sharp\MyPortfolio\Portfolio\MokinioDienorastis\MokinioDienorastis\MokinysBL\bin\Debug\netstandard2.0\MokinysBL.pdb
+C:\C sharp\MyPortfolio\Portfolio\MokinioDienorastis\MokinioDienorastis\MokinysBL\obj\Debug\netstandard2.0\MokinysBL.csprojAssemblyReference.cache
+C:\C sharp\MyPortfolio\Portfolio\MokinioDienorastis\MokinioDienorastis\MokinysBL\obj\Debug\netstandard2.0\MokinysBL.csproj.CoreCompileInputs.cache
+C:\C sharp\MyPortfolio\Portfolio\MokinioDienorastis\MokinioDienorastis\MokinysBL\obj\Debug\netstandard2.0\MokinysBL.AssemblyInfoInputs.cache
+C:\C sharp\MyPortfolio\Portfolio\MokinioDienorastis\MokinioDienorastis\MokinysBL\obj\Debug\netstandard2.0\MokinysBL.AssemblyInfo.cs
+C:\C sharp\MyPortfolio\Portfolio\MokinioDienorastis\MokinioDienorastis\MokinysBL\obj\Debug\netstandard2.0\MokinysBL.dll
+C:\C sharp\MyPortfolio\Portfolio\MokinioDienorastis\MokinioDienorastis\MokinysBL\obj\Debug\netstandard2.0\MokinysBL.pdb

@@ -1,0 +1,44 @@
+C:\C sharp\C sharp 2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\C sharp\C sharp 2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\C sharp\C sharp 2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\C sharp\C sharp 2\ConsoleApp1\ConsoleApp1\bin\Debug\MokinysBL.dll
+C:\C sharp\C sharp 2\ConsoleApp1\ConsoleApp1\bin\Debug\MokinysBL.pdb
+C:\C sharp\C sharp 2\ConsoleApp1\ConsoleApp1\obj\Debug\MokinysUI.csprojAssemblyReference.cache
+C:\C sharp\C sharp 2\ConsoleApp1\ConsoleApp1\obj\Debug\MokinysUI.csproj.CoreCompileInputs.cache
+C:\C sharp\C sharp 2\ConsoleApp1\ConsoleApp1\obj\Debug\MokinysUI.csproj.CopyComplete
+C:\C sharp\C sharp 2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\C sharp\C sharp 2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\C sharp\C sharp 2\MokinioDienorastis\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\C sharp\C sharp 2\MokinioDienorastis\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\C sharp\C sharp 2\MokinioDienorastis\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\C sharp\C sharp 2\MokinioDienorastis\ConsoleApp1\bin\Debug\MokinysBL.dll
+C:\C sharp\C sharp 2\MokinioDienorastis\ConsoleApp1\bin\Debug\MokinysBL.pdb
+C:\C sharp\C sharp 2\MokinioDienorastis\ConsoleApp1\obj\Debug\MokinysUI.csprojAssemblyReference.cache
+C:\C sharp\C sharp 2\MokinioDienorastis\ConsoleApp1\obj\Debug\MokinysUI.csproj.CoreCompileInputs.cache
+C:\C sharp\C sharp 2\MokinioDienorastis\ConsoleApp1\obj\Debug\MokinysUI.csproj.CopyComplete
+C:\C sharp\C sharp 2\MokinioDienorastis\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\C sharp\C sharp 2\MokinioDienorastis\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\C sharp\C sharp 2\MokinioDienorastis\ConsoleApp1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\C sharp\C sharp 2\MokinioDienorastis\ConsoleApp1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\C sharp\C sharp 2\MokinioDienorastis\ConsoleApp1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\C sharp\C sharp 2\MokinioDienorastis\ConsoleApp1\bin\Debug\MokinysBLTest.dll
+C:\C sharp\C sharp 2\MokinioDienorastis\ConsoleApp1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\C sharp\C sharp 2\MokinioDienorastis\ConsoleApp1\bin\Debug\MokinysBLTest.pdb
+C:\C sharp\C sharp 2\MokinioDienorastis\ConsoleApp1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\C sharp\MyPortfolio\Portfolio\MokinioDienorastis\MokinioDienorastis\ConsoleApp1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\C sharp\MyPortfolio\Portfolio\MokinioDienorastis\MokinioDienorastis\ConsoleApp1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\C sharp\MyPortfolio\Portfolio\MokinioDienorastis\MokinioDienorastis\ConsoleApp1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\C sharp\MyPortfolio\Portfolio\MokinioDienorastis\MokinioDienorastis\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\C sharp\MyPortfolio\Portfolio\MokinioDienorastis\MokinioDienorastis\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\C sharp\MyPortfolio\Portfolio\MokinioDienorastis\MokinioDienorastis\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\C sharp\MyPortfolio\Portfolio\MokinioDienorastis\MokinioDienorastis\ConsoleApp1\bin\Debug\MokinysBL.dll
+C:\C sharp\MyPortfolio\Portfolio\MokinioDienorastis\MokinioDienorastis\ConsoleApp1\bin\Debug\MokinysBLTest.dll
+C:\C sharp\MyPortfolio\Portfolio\MokinioDienorastis\MokinioDienorastis\ConsoleApp1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\C sharp\MyPortfolio\Portfolio\MokinioDienorastis\MokinioDienorastis\ConsoleApp1\bin\Debug\MokinysBLTest.pdb
+C:\C sharp\MyPortfolio\Portfolio\MokinioDienorastis\MokinioDienorastis\ConsoleApp1\bin\Debug\MokinysBL.pdb
+C:\C sharp\MyPortfolio\Portfolio\MokinioDienorastis\MokinioDienorastis\ConsoleApp1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\C sharp\MyPortfolio\Portfolio\MokinioDienorastis\MokinioDienorastis\ConsoleApp1\obj\Debug\MokinysUI.csprojAssemblyReference.cache
+C:\C sharp\MyPortfolio\Portfolio\MokinioDienorastis\MokinioDienorastis\ConsoleApp1\obj\Debug\MokinysUI.csproj.CoreCompileInputs.cache
+C:\C sharp\MyPortfolio\Portfolio\MokinioDienorastis\MokinioDienorastis\ConsoleApp1\obj\Debug\MokinysUI.csproj.CopyComplete
+C:\C sharp\MyPortfolio\Portfolio\MokinioDienorastis\MokinioDienorastis\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\C sharp\MyPortfolio\Portfolio\MokinioDienorastis\MokinioDienorastis\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
