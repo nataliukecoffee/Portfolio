@@ -1,0 +1,9 @@
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Klases_nr 1 2019 06 10\Vardas_Pavarde\bin\Debug\netstandard2.0\VardasPavardeBL.deps.json
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Klases_nr 1 2019 06 10\Vardas_Pavarde\bin\Debug\netstandard2.0\VardasPavardeBL.dll
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Klases_nr 1 2019 06 10\Vardas_Pavarde\bin\Debug\netstandard2.0\VardasPavardeBL.pdb
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Klases_nr 1 2019 06 10\Vardas_Pavarde\obj\Debug\netstandard2.0\VardasPavardeBL.csprojAssemblyReference.cache
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Klases_nr 1 2019 06 10\Vardas_Pavarde\obj\Debug\netstandard2.0\VardasPavardeBL.csproj.CoreCompileInputs.cache
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Klases_nr 1 2019 06 10\Vardas_Pavarde\obj\Debug\netstandard2.0\VardasPavardeBL.AssemblyInfoInputs.cache
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Klases_nr 1 2019 06 10\Vardas_Pavarde\obj\Debug\netstandard2.0\VardasPavardeBL.AssemblyInfo.cs
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Klases_nr 1 2019 06 10\Vardas_Pavarde\obj\Debug\netstandard2.0\VardasPavardeBL.dll
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Klases_nr 1 2019 06 10\Vardas_Pavarde\obj\Debug\netstandard2.0\VardasPavardeBL.pdb

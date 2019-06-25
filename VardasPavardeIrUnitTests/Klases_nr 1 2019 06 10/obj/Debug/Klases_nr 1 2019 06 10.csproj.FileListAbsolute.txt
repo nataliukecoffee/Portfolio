@@ -1,0 +1,10 @@
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Klases_nr 1 2019 06 10\Klases_nr 1 2019 06 10\bin\Debug\Klases_nr 1 2019 06 10.exe.config
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Klases_nr 1 2019 06 10\Klases_nr 1 2019 06 10\bin\Debug\Klases_nr 1 2019 06 10.exe
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Klases_nr 1 2019 06 10\Klases_nr 1 2019 06 10\bin\Debug\Klases_nr 1 2019 06 10.pdb
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Klases_nr 1 2019 06 10\Klases_nr 1 2019 06 10\bin\Debug\VardasPavardeBL.dll
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Klases_nr 1 2019 06 10\Klases_nr 1 2019 06 10\bin\Debug\VardasPavardeBL.pdb
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Klases_nr 1 2019 06 10\Klases_nr 1 2019 06 10\obj\Debug\Klases_nr 1 2019 06 10.csprojAssemblyReference.cache
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Klases_nr 1 2019 06 10\Klases_nr 1 2019 06 10\obj\Debug\Klases_nr 1 2019 06 10.csproj.CoreCompileInputs.cache
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Klases_nr 1 2019 06 10\Klases_nr 1 2019 06 10\obj\Debug\Klases_nr 1 2019 06 10.csproj.CopyComplete
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Klases_nr 1 2019 06 10\Klases_nr 1 2019 06 10\obj\Debug\Klases_nr 1 2019 06 10.exe
+C:\C sharp\C sharp 2\C-sharp-II-dalis\Klases_nr 1 2019 06 10\Klases_nr 1 2019 06 10\obj\Debug\Klases_nr 1 2019 06 10.pdb
