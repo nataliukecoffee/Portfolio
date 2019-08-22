@@ -30,21 +30,6 @@ namespace MDPyramidLibrary
 
             return null;
         }
-        /*
-        public static List<List<int>> readInputFromConsole()
-        {
-            List<List<int>> inputList = new List<List<int>>();
-            List<int> array = inputToArray(Console.ReadLine().Split(' '));
-            while (array.Count != 0)
-            {
-                inputList.Add(array);
-                array = inputToArray(Console.ReadLine().Split(' '));
-            }
-
-            return inputList;
-        }
-        */
-
         public static List<List<int>> readInputFromFile(string path)
         {
             Console.WriteLine("Input text:");
